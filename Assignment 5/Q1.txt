@@ -1,0 +1,8 @@
+Q -> SEO
+Ans -> SEO stands for Search engine optimization .
+	It is the process of improving our website to increase its visibility in google , microsoft bing , and many other 
+	search engine whenever people search for products we sell , and services we provide.
+	It is the process used to optimize a website's technical configuration , content relevance and link popularity 
+	so its pages can become more relevant and popular towards user search queries , and as a consequence , search engine 
+	rank them better . 
+	It is important because to help attract website visitors who will become customers , client or an audience that keeps coming back .

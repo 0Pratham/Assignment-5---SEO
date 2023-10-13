@@ -1,0 +1,9 @@
+Q -> Favicon.
+Ans -> An 16*16 oixel icon associated with particular website , typically displayed in the address bar of a browser 
+	accessing the site.It is hsort for "favorite icon" .They are also found on our browsers's bookmark bar , history 
+	and in search results , alongside the page url(uniform resource locator) .
+
+	<head>
+	    <link rel="icon" href="icon URL" type="image/icon"
+	</head>
+	--> the image present on the URL will be added as favicon.

@@ -1,0 +1,14 @@
+Q -> Meta tags .
+Ans -> Meta tags are pieces of information we use to tell the search engine and those viewing our site more about our page
+	and the information it contains . It include title tags , meta description , etc.
+	
+	Benefits -> 
+	1 : Its title tag and meta description length , will impact how relevant our site appears in SERF(Search engine result pages) . when users 
+	    receive their list of results , they will see our site title and short description - the meta descriptiion.
+
+	2 : Improved search engine optimization(SEO) - Meta tags can help improving the viusibility and ranking of our website in search engine
+	    results by providing information about the content of our webpage to search engine.
+
+	3 : Better user experience by socia media sharing .
+
+	4 : Characters encoding - ensures that browser interprets the text , characters correctly .
